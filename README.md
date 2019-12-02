@@ -1,1 +1,1 @@
-# sharing-github
+# Mini projects and exercise
